@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <mask id="mask_g" maskUnits="userSpaceOnUse">
+   <path d="m0.1741-5e-3c-0.0347-0.020251-0.05632-0.051625-0.091495-0.15219-0.037554-0.11368-0.058007-0.23239-0.071605-0.35111-0.007843-0.08588-0.014394-0.17962 0.0072-0.2587 0.00773-0.0283 0.020039-0.05288 0.041167-0.06287 0.018347-0.0087 0.040026-0.0031 0.0601 0.0059 0.07903 0.03574 0.15587 0.10526 0.23223 0.17877 0.12787 0.12434 0.25318 0.25128 0.3799 0.3768z" style="fill:#fff;stroke-width:1px"/>
+  </mask>
+  <radialGradient id="radialGradient_p" cx=".276" cy="-.177" r=".25" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#9558b2" offset=".2"/>
+   <stop style="stop-color:#9558b2;stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient_g" cx="-.36377" cy="-.53747" r=".25" gradientTransform="translate(.66577 -.06453)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#389826" offset=".2"/>
+   <stop style="stop-color:#389826;stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient_r" cx=".4284" cy=".17803" r=".25" gradientTransform="translate(.1736 -.50603)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#cb3c33" offset=".2"/>
+   <stop style="stop-color:#cb3c33;stop-opacity:0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="matrix(256,0,0,256,32,240)" style="stroke-opacity:.8;fill:none">
+  <image y="-1" width="1" height="1" mask="url(#mask_g)" style="image-rendering:optimizeQuality;opacity:.8" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABPklEQVR4AZ3LQ6IdQRiA0a/wbNvG
+nWUL2UCwxewgnMe2bV7frurq6j+235kfyx7+i6Xjf0M7qK2F/B9D2+cgrMd/Ca270a9R18kfb0YK
+4a+hZR3TQC2uyau5eHPMXBxzfw7N81iPdtuoTsa5Mb0xLGd6azd+H+wUTdGYdEG5ybw6qsYH43i3
+vdZa3vebYCYwstPGaRPGJRml2Of72nQ39FI89KsgowjzSsaMjJtsJC8a1YE0E5sILbw+8VPIuq1i
+RNOn6AOTtRHA53jBgdO8PPd98GyP9GS0abRA0kG1n3pKLVCLVHMqwvPL34QGY5oOTZOgIiRQ6aTY
+Q9lRSimmvMp4knPk2udQpV/RKtiIDtCAagulLl47Xnqeeu4FjgeIcONDKNMltERsQHtoQAWK7bzs
+5GnCLcdFDx4CZHD7LVF0i6lxrK0ZAAAAAElFTkSuQmCC"/>
+  <path d="m.1 0v-.9m.1 0v.9m.1 0v-.9m.1 0v.9m.1 0v-.9m.1 0v.9m.1 0v-.9m.1 .1h-.8m0 .1h.8m0 .1h-.8m0 .1h.8m0 .1h-.8m0 .1h.8m0 .1h-.8m0 .1h.8" style="stroke-width:.005;stroke:#aaa"/>
+  <path d="m0-.9v.9h.8" style="stroke-width:.01;stroke:#aaa"/>
+  <path d="m0.276-0.177 0.026-0.425 0.3 0.274z" style="fill:#fff"/>
+  <path d="m0.276-0.177 0.026-0.425 0.3 0.274z" style="fill:url(#radialGradient_p)"/>
+  <path d="m0.276-0.177 0.026-0.425 0.3 0.274z" style="fill:url(#radialGradient_g)"/>
+  <path d="m0.276-0.177 0.026-0.425 0.3 0.274z" style="fill:url(#radialGradient_r)"/>
+ </g>
+</svg>
