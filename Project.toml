@@ -22,6 +22,7 @@ ColorProfilesMD5Ext = ["MD5"]
 ColorTypes = "0.11"
 FileIO = "1"
 FixedPointNumbers = "0.8"
+MD5 = "0.2"
 Requires = "1"
 julia = "1"
 
